@@ -117,4 +117,8 @@ transform: rotateY(180deg);
 
 }
 
-
+.footer{
+    background-color: paleturquoise;
+width: 100%;
+text-align: center;
+}
